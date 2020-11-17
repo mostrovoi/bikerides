@@ -17,7 +17,7 @@ This project consists of 2 parts:
 These trips include all data from all trips.
 The service is only available from May to October, so we will only look at these months. The yearly data is not included in this repository as it takes up a lot of space, but you can download it from here:
 http://dev.hsl.fi/citybikes/od-trips-{year}/od-trips-{year}.zip where {year} can be from 2016 to 2020 values.
-The summarized data is already included in this repository, so you don't have to worry about generating it. The source code for data summarization can also be found in this repository should be needed.
+The summarized data is included in this repository, so you don't have to worry about generating it. The source code for data summarization can also be found in this repository should be needed.
 
 
 &nbsp;&nbsp; 2.- Load the summarized data and present it in a visual way to be able to see the findings. We have used chartjs for that: (https://www.chartjs.org/)
@@ -26,25 +26,25 @@ The summarized data is already included in this repository, so you don't have to
 
 Below you can see a picture including 4 relevant charts with the summarized data. 
 
-2016 was the beginning of the service so the amount of users is small and the data not very relevant.
+2016 was the beginning of the service, so the amount of users is small and the data not very relevant.
 
-2020 is a strange year with the coronavirus so the data from 2020 is difficult to compare with previous years.
+2020 is an atypical year with the coronavirus, so the data from 2020 is not truly comparable with previous years.
 
 
 ![Bike rides charts](https://github.com/mostrovoi/bikerides/blob/master/ridesanalysis.png?raw=true)
 
 Some conclusions:
 
-* People do not get more fit when using the bike system or at least we cannot find a correlation on it
+* People do not get more fit when using the bike system or at least we cannot find a correlation on it.
 
-* Overall 2019 looks like the best year i.e the most used year so we can see a trend in using more and more the service
+* Overall 2019 looks like the best year i.e the most used year so we can see a trend in using more and more the service.
 
 * Fun fact: 2017 for some strange reason is, by far, the year with the highest average speed. 
 
 
 ## Run the application
 
-This application uses **gradle** as build tool. To run the application execute in Linux:
+This application uses **gradle** as build tool. To run the application execute in Linux/Mac:
 
 ```
 ./gradlew bootRun
