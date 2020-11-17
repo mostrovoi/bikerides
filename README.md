@@ -17,7 +17,7 @@ This project consists of 2 parts:
 These trips include all data from all trips.
 The service is only available from May to October, so we will only look at these months. The yearly data is not included in this repository as it takes up a lot of space, but you can download it from here:
 http://dev.hsl.fi/citybikes/od-trips-{year}/od-trips-{year}.zip where {year} can be from 2016 to 2020 values.
-The summarized data is already included in this repository, so you don't have to worry about generating the summarized data. The code for summarizing the data can also be found in this repository should be needed.
+The summarized data is already included in this repository, so you don't have to worry about generating it. The source code for data summarization can also be found in this repository should be needed.
 
 
 &nbsp;&nbsp; 2.- Load the summarized data and present it in a visual way to be able to see the findings. We have used chartjs for that: (https://www.chartjs.org/)
