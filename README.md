@@ -31,7 +31,7 @@ Below you can see a picture including 4 relevant charts with the summarized data
 2020 is an atypical year with the coronavirus, so the data from 2020 is not truly comparable with previous years.
 
 
-![Bike rides charts](https://github.com/mostrovoi/bikerides/blob/master/ridesanalysis.png?raw=true)
+![Bike rides charts](ridesanalysis.pnggit s)
 
 Some conclusions:
 
