@@ -31,13 +31,13 @@ Below you can see a picture including 4 relevant charts with the summarized data
 2020 is an atypical year with the coronavirus, so the data from 2020 is not truly comparable with previous years.
 
 
-![Bike rides charts](ridesanalysis.pnggit s)
+![Bike rides charts](ridesanalysis.png)
 
 Some conclusions:
 
 * People do not get more fit when using the bike system or at least we cannot find a correlation on it.
 
-* Overall 2019 looks like the best year i.e the most used year so we can see a trend in using more and more the service.
+* Overall 2019 looks like the best year i.e the most used year. There is a trend in using more and more the service.
 
 * Fun fact: 2017 for some strange reason is, by far, the year with the highest average speed. 
 
