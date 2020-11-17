@@ -40,3 +40,27 @@ Some conclusions:
 * Overall 2019 looks like the best year i.e the most used year so we can see a trend in using more and more the service
 
 * Fun fact: 2017 for some strange reason is, by far, the year with the highest average speed. 
+
+
+## Run the application
+
+This application uses **gradle** as build tool. To run the application execute in Linux:
+
+```
+./gradlew bootRun
+```
+
+or if you are using Windows:
+
+```
+gradlew.bat bootRun
+```
+
+### Using the application
+
+Once you have the application up and running, go to the following URL to see the generated charts:
+
+```
+http://localhost:8080
+```
+
